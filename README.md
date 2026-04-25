@@ -7,6 +7,12 @@
 
 Script de automação profissional para preparar o ambiente e instalar o Docker Engine + Docker Compose em sistemas baseados em Ubuntu/Lubuntu. 
 
+VÍDEO DEMONSTRAÇÃO:
+
+https://github.com/user-attachments/assets/0746b5b1-99d5-4daa-869f-17ba922cea1f
+
+
+
 ## 🚀 Funcionalidades
 * **Atualização de Repositórios:** Garante que o sistema esteja pronto para a instalação.
 * **Segurança GPG:** Configura as chaves oficiais do Docker usando o novo padrão seguro `/etc/apt/keyrings`.
